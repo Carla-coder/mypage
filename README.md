@@ -1,19 +1,14 @@
-
 # Projeto My Page
 
 Este projeto foi desenvolvido com REACT NATIVE que é uma biblioteca para criação de aplicativos móveis nativos utilizando JavaScript, com uma abordagem de programação declarativa e componetizada. o EXPO é uma plataforma desesenvolvimento de aplicativos móveis baseada em React Native, que fornece ferramentas e serviços para facilitar o processo de desenvolvimento. As TELAS e COMPONENTES são os principais elementos que compôem a interface do usuário do aplicativo.
 
 O projeto consiste em realizar um aplicativo chamado 'MY PAGE', onde contenha uma foto no começo da página, informações pessoais e um link de acesso direto ao GitHub.
 
-
 ## Documentação Oficial da API REACT NATIVE e EXPO
 
 * https://reactnative.dev/
 
 * https://expo.dev/
-
-
-
 
 ## Instalação das Dependências
 
@@ -48,15 +43,13 @@ O projeto consiste em realizar um aplicativo chamado 'MY PAGE', onde contenha um
 ```cmd
   npm run web
 ```
-
-
-
-
-    
 ## Autores
 
 - [@octokatherine](https://www.github.com/Carla-coder)
 
+## Print da Tela
+
+![resultado final](https://github.com/Carla-coder/mypage/assets/128012862/5d00366a-15aa-416b-bd28-8a43aed23e6c)
 
 ## Instituição de Ensino
 
